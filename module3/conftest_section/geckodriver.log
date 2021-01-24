@@ -1,0 +1,25 @@
+1605045806495	geckodriver	INFO	Listening on 127.0.0.1:50203
+1605045809568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mars-PC\\AppData\\Local\\Temp\\rust_mozprofileahPk0e"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605045811643	Marionette	INFO	Listening on port 50211
+1605045811748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://stepik.azureedge.net/static/frontend-build/vendor.js?v=1604946520, line 2472: unreachable code after return statement
+1605045841840	Marionette	INFO	Stopped listening on port 50211
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605046081048	geckodriver	INFO	Listening on 127.0.0.1:50331
+1605046084142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mars-PC\\AppData\\Local\\Temp\\rust_mozprofileh22DC4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605046085781	Marionette	INFO	Listening on port 50339
+1605046086184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/, line 374: ReferenceError: oscar is not defined
+1605046088625	Marionette	INFO	Stopped listening on port 50339
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
